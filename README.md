@@ -1,7 +1,4 @@
-
-
-![header](https://capsule-render.vercel.app/api?height=400&text=Leporem&desc=Plan%20Your%20Travel%20with%20Us!&fontColor=FFFFFF)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&text=Leporem&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90&animation=fadeIn&fontAlignY=38&text=Leporem&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62&fontColor=FFFFFF)
 
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
