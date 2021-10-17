@@ -49,8 +49,7 @@
 
 ##  ✅ 팀원 소개
 - [김미림](https://github.com/olleTheJeju)
-- [이승준](https://github.com/sseungjjune)
-- [박인정](https://github.com/InJungPark)
-- [이재전](https://github.com/bojjlee)
-- [정지수](https://github.com/hy6219)
+- [채현규]
+- [김희주]
+- [이승현]
 - [정현구](https://github.com/qwwertt1)
